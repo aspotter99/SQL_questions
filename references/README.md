@@ -1,2 +1,0 @@
-# template
-Project Repo Template
